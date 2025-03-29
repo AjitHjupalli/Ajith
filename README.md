@@ -22,6 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithjupalli&show_icons=true&locale=en" alt="ajithjupalli" /></p>
 
 
-### 🚀 My Java Projects
-- [🖼 Convert JPEG to PNG](https://github.com/AjitHjupalli/-JAVA-_Convert-JPEG-to-PNG.git) - A Java program to convert JPEG images to PNG format.
+
 
